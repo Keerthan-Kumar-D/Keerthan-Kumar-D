@@ -43,11 +43,6 @@ I'm a Software Engineering student specializing in **Data Analysis**, with a str
 
 My engineering approach centers on **product thinking**: reducing unnecessary complexity, choosing the right tools for scale, and shipping software that solves real problems rather than just demoing features.
 
-- 🔭 **Currently Engineering:** ML-integrated full-stack web applications (React.js + FastAPI + Python)
-- 🧠 **Core Expertise:** Machine Learning, Predictive Modeling, REST API Architecture, Database Systems
-- 🌱 **Actively Deepening:** Cloud deployment, scalable backend architecture, MongoDB → SQL system design tradeoffs
-- 💼 **Open To:** Software Engineering Internships · AI/ML Engineering Roles · Full Stack Developer Positions
-
 ---
 
 ## 🟣 Tech Stack
@@ -83,11 +78,9 @@ Machine learning-based diagnostic tool that classifies probable diseases from us
 | Category | Details |
 |---|---|
 | **Stack** | Python, Scikit-learn, FastAPI, React.js |
-| **Scale** | Multi-class symptom-to-disease classification engine |
-| **Performance** | High-accuracy real-time inference via REST API |
-| **Security** | Input-validated API layer, sanitized request handling |
-| **Impact** | Delivers instant, accessible symptom-based health insights |
-| **Repository** | [github.com/keerthankumard/disease-prediction-system](https://github.com/keerthankumard) |
+| **Scale** | symptom-to-disease classification engine |
+| **Impact** | Give a atmost accurate prediction in bar graph |
+| **Repository** | [github.com/keerthankumard/disease-prediction](https://github.com/keerthankumard) |
 
 Architected as a decoupled system — a Scikit-learn model served through FastAPI, consumed by a React.js frontend — enabling real-time symptom analysis without page reloads. Emphasis was placed on inference speed and a clean, intuitive user interface for non-technical end users.
 
@@ -102,11 +95,9 @@ Full-stack e-commerce intelligence platform that aggregates live product listing
 | Category | Details |
 |---|---|
 | **Stack** | React.js, FastAPI, Python, MongoDB |
-| **Scale** | Multi-source product aggregation with dynamic filtering |
-| **Performance** | Optimized REST API integration for fast, concurrent data retrieval |
-| **Security** | Secure user authentication and session handling |
-| **Impact** | Improved product discovery and purchase-decision efficiency for users |
-| **Repository** | [github.com/keerthankumard/smart-price-comparison](https://github.com/keerthankumard) |
+| **Scale** | Real-Time Price Compare from Amazon and Flipkart |
+| **Impact** | Get the Real-Time Prices of the Product |
+| **Repository** | [github.com/keerthankumard/Price-Compare](https://github.com/keerthankumard) |
 
 Built with a strong focus on usability — secure authentication, persistent wishlist management, and a responsive React.js UI with dynamic search and filtering, backed by a FastAPI + MongoDB service layer.
 
