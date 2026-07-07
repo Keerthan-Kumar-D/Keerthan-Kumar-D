@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B69,100:6C3CE9&height=220&section=header&text=Keerthan%20Kumar%20D&fontSize=48&fontColor=E8E3FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B69,100:6C3CE9&height=220&section=header&text=Keerthan%20Kumar%20D&fontSize=48&fontColor=E8E3FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Software+Solutions;Machine+Learning+%7C+Full+Stack+Engineering;Python+%E2%80%A2+React.js+%E2%80%A2+FastAPI+%E2%80%A2+MongoDB;Turning+Data+into+Deployable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Software+Solutions;Python+%E2%80%A2+Java+%E2%80%A2++React.js+%E2%80%A2+FastAPI+%E2%80%A2+MongoDB;Turning+Data+into+Deployable+Products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,16 +14,14 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthankumard.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthankumard)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthan-kumar-98b7913b3)
 [![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthankd1802@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthankumard)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthan-Kumar-D)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=keerthankumard&style=for-the-badge&color=6C3CE9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/keerthankumard?style=for-the-badge&color=8B5CF6&labelColor=0F0524&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/keerthankumard?style=for-the-badge&color=A78BFA&labelColor=0F0524&label=STARS)
+
 
 </div>
 
@@ -37,12 +35,11 @@
 const engineer = {
   role: "Software Engineering Student",
   focus: ["Machine Learning", "Full Stack Development", "Systems Design"],
-  philosophy: "Ship intelligent, production-ready software — not just prototypes",
   currentlyAt: "Global Academy of Technology, Bengaluru"
 };
 ```
 
-I'm a Software Engineering student specializing in **Artificial Intelligence & Machine Learning**, with a strong command of full-stack web development. I build systems end-to-end — from training and deploying ML models to architecting REST APIs and shipping responsive, production-grade frontends.
+I'm a Software Engineering student specializing in **Data Analysis**, with a strong command of full-stack web development. I build systems end-to-end — from training and deploying ML models to architecting REST APIs and shipping responsive, production-grade frontends.
 
 My engineering approach centers on **product thinking**: reducing unnecessary complexity, choosing the right tools for scale, and shipping software that solves real problems rather than just demoing features.
 
@@ -61,7 +58,7 @@ My engineering approach centers on **product thinking**: reducing unnecessary co
 
 **Frontend**
 
-![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)
+![React](https://skillicons.dev/icons?i=react)  ![Vite](https://skillicons.dev/icons?i=vite)
 
 **Backend & Databases**
 
@@ -69,25 +66,11 @@ My engineering approach centers on **product thinking**: reducing unnecessary co
 
 **Cloud, DevOps & Tooling**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![VSCode](https://skillicons.dev/icons?i=vscode) 
 
 ---
 
-## 🟣 AI / ML Expertise
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Supervised Learning** | ⭐⭐⭐⭐☆ | Naive Bayes classification, symptom-based disease prediction pipelines |
-| **Data Preprocessing** | ⭐⭐⭐⭐☆ | Feature encoding, cleaning, structuring datasets for model training |
-| **Model Deployment** | ⭐⭐⭐☆☆ | Serving Scikit-learn models via FastAPI REST endpoints |
-| **Scikit-learn Ecosystem** | ⭐⭐⭐⭐☆ | Model training, evaluation, and accuracy optimization |
-| **ML-Integrated Full Stack Apps** | ⭐⭐⭐⭐☆ | Connecting trained models to React.js interfaces in real time |
-
-</div>
-
----
 
 ## 🟣 Featured Projects
 
@@ -159,21 +142,6 @@ Simulated a real Deloitte data analytics engagement, applying analytical thinkin
 
 `Data Analytics` `Business Insights` `Consulting`
 
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🎓 **Academic Excellence** | CGPA of 8.69/10 in B.E. Information Science and Engineering |
-| 🏅 **NPTEL Elite Certification** | Data Structures and Algorithms using Java — IIT Kharagpur |
-| 💼 **JPMorgan Chase Simulation** | Completed Software Engineering Job Simulation via Forage |
-| 📊 **Deloitte Simulation** | Completed Data Analytics Job Simulation via Forage |
-| 🚀 **Full-Stack ML Deployment** | Successfully deployed an ML-integrated web application to production |
-
-</div>
 
 ---
 
@@ -190,96 +158,17 @@ Simulated a real Deloitte data analytics engagement, applying analytical thinkin
 
 ---
 
-## 🟣 Coding Profiles
 
-<div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/keerthankumard)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2D1B69?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/user/keerthankumard)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://hackerrank.com/keerthankumard)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://codechef.com/users/keerthankumard)
-
-</div>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=keerthankumard&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E8E3FF&ring_color=6C3CE9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthankumard&theme=tokyonight&hide_border=true&background=0F0524&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthankumard&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E8E3FF" width="48%"/>
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keerthankumard&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthankumard&theme=tokyo-night&hide_border=true&bg_color=0F0524&color=A78BFA&line=8B5CF6&point=E8E3FF" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/keerthankumard/keerthankumard/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Current Focus
-
-```yaml
-Learning:
-  - Advanced Machine Learning & Model Optimization
-  - System Design for Scalable Web Applications
-  - Cloud Deployment (AWS / Render / Vercel)
-
-Building:
-  - ML-Integrated Full Stack Products
-  - REST API Architectures with FastAPI
-
-Exploring:
-  - Deep Learning Fundamentals
-  - Backend Scalability Patterns
-
-Open To:
-  - Software Engineering Internships
-  - AI / ML Engineering Roles
-  - Full Stack Developer Positions
-```
-
----
 
 ## 🟣 Connect With Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/keerthankd1802%40gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthankd1802@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthankumard)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthankumard)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthankumard.dev)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthan-kumar-98b7913b3)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthan-Kumar-D)
+
 
 </div>
 
