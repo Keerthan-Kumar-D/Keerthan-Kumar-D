@@ -9,7 +9,8 @@
 <br/>
 
 ![B.E. Information Science](https://img.shields.io/badge/B.E.-Information%20Science%20%26%20Engineering-6C3CE9?style=for-the-badge&labelColor=0F0524)
-![CGPA](https://img.shields.io/badge/CGPA-8.69%20%2F%2010-8B5CF6?style=for-the-badge&labelColor=0F0524)
+
+ 
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka-7C3AED?style=for-the-badge&labelColor=0F0524&logo=googlemaps&logoColor=E8E3FF)
 
 <br/>
@@ -81,6 +82,7 @@ Machine learning-based diagnostic tool that classifies probable diseases from us
 | **Scale** | symptom-to-disease classification engine |
 | **Impact** | Give a atmost accurate prediction in bar graph |
 | **Repository** | [github.com/Keerthan-Kumar-D/disease-prediction](https://github.com/Keerthan-Kumar-D/disease-prediction) |
+| **Visit** | [Disease Prediction System](https://disease-prediction-kkd.vercel.app) |
 
 Architected as a decoupled system — a Scikit-learn model served through FastAPI, consumed by a React.js frontend — enabling real-time symptom analysis without page reloads. Emphasis was placed on inference speed and a clean, intuitive user interface for non-technical end users.
 
@@ -98,6 +100,7 @@ Full-stack e-commerce intelligence platform that aggregates live product listing
 | **Scale** | Real-Time Price Compare from Amazon and Flipkart |
 | **Impact** | Get the Real-Time Prices of the Product |
 | **Repository** | [github.com/Keerthan-Kumar-D/Price-Compare](https://github.com/Keerthan-Kumar-D/Price-Compare) |
+| **Visit** | [Smart Price Comparison](https://price-compare-gadha.vercel.app) |
 
 Built with a strong focus on usability — secure authentication, persistent wishlist management, and a responsive React.js UI with dynamic search and filtering, backed by a FastAPI + MongoDB service layer.
 
