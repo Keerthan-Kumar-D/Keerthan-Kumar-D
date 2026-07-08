@@ -30,7 +30,7 @@
 
 ## 🟣 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/octocat/octocat.github.io/master/images/GitHub-Mark-Light.png" style="display:none;">
+<img align="right" width="280"  style="display:none;">
 
 ```
 const engineer = {
