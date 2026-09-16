@@ -16,7 +16,7 @@
 <br/>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keerthan-kumar-d-98b7913b3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/keerthan-kumar-d-98b7913b3](https://www.linkedin.com/in/keerthan-kumar-d-98b7913b3/))
 [![Gmail](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthankd1802@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthan-Kumar-D)
 
